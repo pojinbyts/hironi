@@ -1,4 +1,4 @@
-## KNTNBOTWA
+## BElSC
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -54,4 +54,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Dana : 082157298268 hironi
