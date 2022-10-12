@@ -1,4 +1,4 @@
-## BELSC
+## hironi
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/pojinbyts/BELSC
-> cd BELSC
+> git clone https://github.com/pojinbyts/hironi
+> cd hironi
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
